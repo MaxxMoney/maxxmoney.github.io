@@ -1,3 +1,5 @@
 test auto goujian
 
-batch \/y \/e
+batch /y /e
+
+daxie Y E
