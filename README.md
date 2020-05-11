@@ -4,4 +4,4 @@ batch /y /e
 
 daxie Y E
 
-workspace
+test dir
