@@ -1,3 +1,3 @@
 test auto goujian
 
-batch -- shell
+batch /y /e
