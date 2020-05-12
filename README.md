@@ -4,4 +4,4 @@ batch /y /e
 
 daxie Y E
 
-edit workspace
+test 0512 1033
