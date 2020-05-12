@@ -4,9 +4,9 @@ batch /y /e
 
 daxie Y E
 
-test 0512 1050
+test 0512 1804
 content type
 
 edit branch
 
-test dev new machine
+test dev   sh.exe
